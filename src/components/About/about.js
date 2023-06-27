@@ -22,7 +22,7 @@ function About() {
             Before venturing into the world of technology, I embarked on an
             exciting musical journey. For several years, I toured and worked as
             a studio musician in Los Angeles, showcasing my talent on guitar,
-            piano, bas and songwriting. I immersed myself in a wide range of
+            piano, bass and songwriting. I immersed myself in a wide range of
             music genres, from rock, country, and blues to pop, hip hop, and
             jazz. This experience allowed me to develop a deep appreciation for
             the power of artistic expression and its ability to connect with
