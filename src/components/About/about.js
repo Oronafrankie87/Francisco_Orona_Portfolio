@@ -18,18 +18,19 @@ function About() {
         <div className="text-container">
           <h2>About Me</h2>
           <p>
-            Hello, my name is Francisco Orona, but my family and friends know me
-            as Frankie. I am a skilled software developer with a diverse
-            background that fuels my creativity.
+            Hello, my name is Francisco Orona, but my family and friends know me as Frankie. As a skilled software developer I have a diverse background that fuels my creativity.
           </p>
           <p>
             Before entering the world of technology, I embarked on an exciting
             musical journey. For several years, I toured and worked as a studio
             musician in Los Angeles, showcasing my talent on guitar, piano, bass
-            and songwriting. I immersed myself in a wide range of music genres,
-            from rock, country, and blues to pop, hip hop, and jazz. This
-            experience allowed me to develop a deep appreciation for the power
-            of artistic expression and its ability to connect with people.
+            and songwriting. I had many opportunities to work and familiarize 
+            myself with different recording software programs doing production 
+            and post production/sound design. I immersed myself in a wide range 
+            of music genres, from rock, country, and blues to pop, hip hop, 
+            and jazz. This experience allowed me to develop a deep appreciation 
+            for the power of artistic expression and its ability to connect with 
+            people.
           </p>
           <p>
             In parallel to my musical pursuits, I discovered an abiding passion
@@ -38,7 +39,8 @@ function About() {
             and intricately detailed illustrations utilizing digital tools and
             techniques. You can find examples of this in my Artwork link at the
             top of the page as well as the the image of myself above this
-            description which was made using Excalidraw.
+            description which was made using Excalidraw.  Program experience is 
+            listed on my resume page.
           </p>
           <p>
             Drawing from my previous roles as a pharmacy technician and a

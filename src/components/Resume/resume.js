@@ -33,6 +33,17 @@ function Resume() {
           <li>Python</li>
           <li>Java</li>
           <li>C#</li>
+          <h3>Creative/Art Proficiencies</h3>
+          <ul className="skills">
+            <li>Logic Pro</li>
+            <li>Pro Tools</li>
+            <li>Photoshop</li>
+            <li>Maya</li>
+            <li>Max</li>
+            <li>Music Theory</li>
+            <li>Guitar/Bass repair</li>
+            <li>Audio Production/Post Production</li>
+          </ul>
         </ul>
       </div>
     </section>
