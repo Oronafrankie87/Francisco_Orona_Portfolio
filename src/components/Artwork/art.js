@@ -30,7 +30,7 @@ function ArtworkPage() {
     },
     {
       image: artwork7,
-      paragraph: "For another project I contributed on named Goalsy, I requested the task of creating this logo.  Please see my Portfolio page for link and description.",
+      paragraph: "For another project I contributed on named Goalsy, I created the logo along with this character Taskman for the project.  Please see my Portfolio page for link and description.",
     },
     {
       image: artwork4,
